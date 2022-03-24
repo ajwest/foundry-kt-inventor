@@ -1,0 +1,56 @@
+{
+  "name": "kt-inventor",
+  "title": "Inventor Class",
+  "description": "KibbleTasties Inventor Class for 5E Dungeons and Dragons",
+  "version": "This is auto replaced",
+  "library": "false",
+  "manifestPlusVersion": "1.0.0",
+  "minimumCoreVersion": "0.8.8",
+  "compatibleCoreVersion": "9",
+  "authors": [
+    {
+      "name": "AJ West",
+      "url": "https://github.com/ajwest"
+    }
+  ],
+  "dependencies": [
+
+  ],
+  "conflicts": [
+
+  ],
+  "esmodules": [
+    "/scripts/module.js"
+  ],
+  "scripts": [
+    "/scripts/lib/lib.js"
+  ],
+  "styles": [
+    "/styles/module.css"
+  ],
+  "packs": [
+    {
+      "name": "kt-inventor",
+      "label": "KT Inventor",
+      "path": "./packs/kt-inventor.db",
+      "entity": "Item",
+      "type": "Item"
+    }
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "languages/en.json"
+    }
+  ],
+  "url": "This is auto replaced",
+  "manifest": "This is auto replaced",
+  "download": "This is auto replaced",
+  "media": [
+    {
+      "type": "icon",
+      "url": "https://avatars2.githubusercontent.com/u/71292812?s=400&u=ccdb4eeb7abf551ca8f314e5a9bfd0479a4d3d41&v=4"
+    }
+  ]
+}
