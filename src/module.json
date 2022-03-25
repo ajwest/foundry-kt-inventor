@@ -1,6 +1,6 @@
 {
   "name": "kt-inventor",
-  "title": "Inventor Class",
+  "title": "Inventor Class - Dev",
   "description": "KibbleTasties Inventor Class for 5E Dungeons and Dragons",
   "version": "This is auto replaced",
   "library": "false",
@@ -20,10 +20,7 @@
 
   ],
   "esmodules": [
-    "/scripts/module.js"
-  ],
-  "scripts": [
-    "/scripts/lib/lib.js"
+    "/module/ktInventor.js"
   ],
   "styles": [
     "/styles/module.css"

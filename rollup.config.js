@@ -1,7 +1,7 @@
 const { nodeResolve } = require('@rollup/plugin-node-resolve');
 
 module.exports = {
-  input: 'src/module/kt-inventor.js',
+  input: 'src/module/ktInventor.js',
   output: {
     dir: 'dist/module',
     format: 'es',
