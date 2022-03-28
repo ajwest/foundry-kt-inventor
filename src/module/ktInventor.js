@@ -1,4 +1,4 @@
-import { InventorClassFeatures } from './lib/InventorClassFeatures';
+import { InventorClassFeatures } from './lib/inventorClassFeatures';
 
 Hooks.once('init', async function () {
   console.log('loading');
