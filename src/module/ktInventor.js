@@ -1,13 +1,13 @@
-import { InventorClassFeatures } from "./lib/InventorClassFeatures";
+import { InventorClassFeatures } from './lib/InventorClassFeatures';
 
 Hooks.once('init', async function () {
-  console.log("loading");
+  console.log('loading');
 });
 
 Hooks.once('ready', async function () {
   CONFIG.DND5E.classFeatures = {
     ...CONFIG.DND5E.classFeatures,
-    ...InventorClassFeatures
+    ...InventorClassFeatures,
   };
-  console.log("booya");
+  console.log('booya');
 });
