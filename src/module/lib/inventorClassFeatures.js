@@ -14,7 +14,8 @@ export const InventorClassFeatures = {
     },
     features: {
       1: ["Compendium.kt-inventor.kt-inventor.DshnUXroPLayqAOj", "Compendium.kt-inventor.kt-inventor.GBoFSmZQAiOwtTFc"],
-      2: ["Compendium.kt-inventor.kt-inventor.id990HElnJCc88q6", "Compendium.kt-inventor.kt-inventor.F0lROihinsjIKFgy", "kt-inventor.kt-inventor.I4tH3xvKW5VRmIUw"]
+      2: ["Compendium.kt-inventor.kt-inventor.id990HElnJCc88q6", "Compendium.kt-inventor.kt-inventor.F0lROihinsjIKFgy", "Compendium.kt-inventor.kt-inventor.I4tH3xvKW5VRmIUw"],
+      3: ["Compendium.kt-inventor.kt-inventor.z8JyumNSOQ5pUQeN"]
     }
   }
 }
